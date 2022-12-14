@@ -1,4 +1,4 @@
-package com.ruoyi.pill.controller;
+package com.ruoyi.web.controller.pill;
 
 import com.ruoyi.common.annotation.Log;
 import com.ruoyi.common.core.controller.BaseController;

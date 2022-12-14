@@ -1,4 +1,4 @@
-package com.ruoyi.pill.controller;
+package com.ruoyi.web.controller.pill;
 
 import java.util.List;
 import javax.servlet.http.HttpServletResponse;
